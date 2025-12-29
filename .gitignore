@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+buscaminas/GUARDAR/*.txt
+buscaminas/GUARDAR/*.dat
+!buscaminas/GUARDAR/.gitkeep
+!buscaminas/RUTA_VACIA/.gitkeep
+.vscode/
+.idea/
