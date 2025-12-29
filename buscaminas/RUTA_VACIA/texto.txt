@@ -1,0 +1,1 @@
+Archivo para poder entregar la carpeta donde no existe tablero.txt ni tablero_visible.txt
